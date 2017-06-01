@@ -35,4 +35,4 @@ ___
 * Harmonica, [The Downtown Train](http://www.thedowntowntrain.com), 2008 - 2014
 
 ___
- [805-813-3693](tel:805-813-3693) | [garricn@icloud.com](mailto:garricn@icloud.com) | [garricn.com](https://garricn.com) | [@garricn](https://twitter.com/garricn)
+ [805-813-3693](tel:805-813-3693) | [garricn@icloud.com](mailto:garricn@icloud.com) | [garricn.com](https://garricn.com) | [\@garricn](https://twitter.com/garricn)
