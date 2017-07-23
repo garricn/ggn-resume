@@ -31,7 +31,7 @@ ___
 
 #### ADDITIONAL INFORMATION
 * [Swift Weekly Brief Contributor](https://github.com/SwiftWeekly/swiftweekly.github.io/issues/280), [swiftweekly.github.io](https://swiftweekly.github.io), [Issue 76](https://swiftweekly.github.io/issue-76/)
-* [Swift Open Source Contributor](https://github.com/apple/swift/pull/8908), Swift.org PR #8908 
+* [Swift Open Source Contributor](https://github.com/apple/swift/pull/8947), Swift.org PR #8947
 * Guest Relations @ [OurHabitas.com](http://www.ourhabitas.com), September 2014 - Present
 
 ___
