@@ -2,23 +2,23 @@
 ___
 
 #### WORK EXPERIENCE
-##### **iOS Developer** @ **[Farmers Insurance](http://farmers.com)** // *May 2016 - Present*
+
+##### **Senior iOS Engineer** @ **[Tinder](https://tinder.com)** // *September 2017 - Present*
+* Core, Core Profile, Core Support
+* Features: Home, Profile, Profile Edit, Profile Detail, TinderU, Card Stack, Gold Home, Likes
+* Infra: Session, Endpoint Migration, Location Service, App Service, Profile Media Service, Matches & Messages Pagination, Layout
+* Architecture: Spearhead adoption of internally built mobile architecture (similar to Uber's RIBs); develop patterns, document, evanglise, support
+* Tests: Unit, Snapshot (iOS Snapshot, Swift Snapshot), Integration, Mockolo, TestRail
+* Apple Tech: Swift, SwiftUI, Objective-C, UIKit, Core Location, Foundation, CoreData
+* Other Tech: Bazel, Needle, Mockolo, Jenkins, GitHub Actions, Bitrise, BuildKite, JFrog Artifactory, JIRA, PIN, SwiftProtobuf
+* Contributor Rank #12 out of 107, 1,765 commits: 173,684 insertions 122,932 deletions
+
+##### **iOS Developer** @ **[Farmers Insurance](http://farmers.com)** // *May 2016 - August 2017*
 * Spearhead the agile transformation of the entire company
 * Enhance and maintain existing customer facing iOS App written in Swift 1.2
 * Managed successful conversion to Swift 3.0
 * Converted static libraries to pods
 * Command Line Git-Flow, Unix, Scripting, UI & Unit Testing, Agile, and CI
-
-##### **Founder** @ **[SwiftCoders.org](https://swiftcoders.org)** // *June 2015 - Present*
-* Member-driven organization enabling personal, career, and community development through Swift and iOS
-* Host of [The SwiftCoders Podcast](https://swiftcoders.org/2017/03/07/the-swiftcoders-podcast/): Over 50 episodes. Interviewed **Chris Lattner**, creator of Swift
-* Host of [Learn Swift LA](https://www.meetup.com/LearnSwiftLA/): Weekly meet up with over 900 members and over 80 past events
-* Leader of [Learn Swift {CITY}](https://swiftcoders.org/2017/03/07/learn-swift-la/): 11 Learn Swift Meet Ups globaly
-
-##### **iOS Developer** @ **[OnnaWay.com](https://onnaway.com)** // *August 2015 - April 2016*
-* Sole iOS Developer for driver tracking and order dispatching mobile app.
-* Swift, iOS SDK, Xcode, Instruments, iTunes Connect, TestFlight, Sketch 3
-* CoreLocation, MapKit, CloudKit, Reachability, URLSession, REST,  JSON, Azure
 
 #### EDUCATION
 * **Juris Doctor** from **USC Law School** // *May 2012*
@@ -30,9 +30,10 @@ ___
 	* School of Social Sciences Award for Outstanding Honors Thesis
 
 #### ADDITIONAL INFORMATION
+* Founder & Host of the [SwiftCoders Podcast](https://podcasts.apple.com/us/podcast/swiftcoders-interviews-with-swift-developers/id1082937962)
+* Creator of Learn Swift {City} Groups of Meetups (LA, Boston, Tokyo, Milan, and more)
 * [Swift Weekly Brief Contributor](https://github.com/SwiftWeekly/swiftweekly.github.io/issues/280), [swiftweekly.github.io](https://swiftweekly.github.io), [Issue 76](https://swiftweekly.github.io/issue-76/)
 * [Swift Open Source Contributor](https://github.com/apple/swift/pull/8947), Swift.org PR #8947
-* Guest Relations @ [OurHabitas.com](http://www.ourhabitas.com), September 2014 - Present
 
 ___
  [805-813-3693](tel:805-813-3693) | [garricn@icloud.com](mailto:garricn@icloud.com) | [garricn.com](https://garricn.com) | [@garricn](https://twitter.com/garricn)
