@@ -7,7 +7,7 @@ ___
 * Core, Core Profile, Core Support
 * Features: Home, Profile, Profile Edit, Profile Detail, TinderU, Card Stack, Gold Home, Likes
 * Infra: Session, Endpoint Migration, Location Service, App Service, Profile Media Service, Matches & Messages Pagination, Layout
-* Architecture: Spearhead adoption of internally built mobile architecture (similar to Uber's RIBs); develop patterns, document, evanglise, support
+* Architecture: Spearhead adoption of custom mobile architecture (like Uber's RIBs); develop patterns, document, evanglise, cross pod support
 * Tests: Unit, Snapshot (iOS Snapshot, Swift Snapshot), Integration, Mockolo, TestRail
 * Apple Tech: Swift, SwiftUI, Objective-C, UIKit, Core Location, Foundation, CoreData
 * Other Tech: Bazel, Needle, Mockolo, Jenkins, GitHub Actions, Bitrise, BuildKite, JFrog Artifactory, JIRA, PIN, SwiftProtobuf
